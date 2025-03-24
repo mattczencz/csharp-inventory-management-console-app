@@ -1,4 +1,4 @@
-﻿using InventoryManagement;
+﻿using InventoryManagement.Classes;
 
 bool running = true;
 Inventory inventory = new Inventory();

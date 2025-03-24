@@ -1,4 +1,4 @@
-namespace InventoryManagement;
+namespace InventoryManagement.Classes;
 
 public class Inventory
 {
